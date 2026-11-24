@@ -1,0 +1,47 @@
+body {
+    background-color: #19152e\
+    color: white; 
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: greenyellow:
+}
+
+.translator {
+    display: flex;
+    jusitfy-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.english {
+    width: 150px;
+    background-color: #302965
+    border: 2px solid violet;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.alien {
+    width: 150px;
+    background-color: #263c2f
+    border: 2px solid greenyellow;
+    padding: 15px;
+    border-radius: 10px;
+    color: greenyellow;
+}
+
+.arrow{
+    color: greenyellow;
+    font-size: 35px;
+}
+
+.alien-hover {
+    box-shadow: 0px 0px 20px greenyellow;
+}
+
+.h3{
+    color: lavendar;
+}
